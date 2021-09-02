@@ -2,8 +2,9 @@
 ## Data Colection 
 
         For research purposes, the ECG signals were obtained from the PhysioNet service (http://www.physionet.org) from 
-the MIT-BIH Arrhythmia database. The created database with ECG signals is described below.
+        the MIT-BIH Arrhythmia database. 
 
+The created database with ECG signals is described below.
 ```
 1) The ECG signals were from 45 patients: 19 female (age: 23-89) and 26 male (age: 32-89). 
 2) The ECG signals contained 17 classes: normal sinus rhythm, pacemaker rhythm, and 15 types of cardiac dysfunctions (for each of which at least 10 signal fragments were collected).
