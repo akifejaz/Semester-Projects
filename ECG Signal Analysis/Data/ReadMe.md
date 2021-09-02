@@ -16,6 +16,6 @@ The created database with ECG signals is described below.
 
 ##Some Links Where Similar Data/More Data Can be find out !
 
-https://data.mendeley.com/research-data/?type=DATASET&search=ecg%20signal
-https://www.mathworks.com/help/signal/ug/peak-analysis.html
-https://archive.physionet.org/cgi-bin/atm/ATM
+> - https://data.mendeley.com/research-data/?type=DATASET&search=ecg%20signal
+> - https://www.mathworks.com/help/signal/ug/peak-analysis.html
+> - https://archive.physionet.org/cgi-bin/atm/ATM
