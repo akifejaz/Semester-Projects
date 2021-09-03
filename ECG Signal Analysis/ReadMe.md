@@ -31,5 +31,5 @@ The data set we used in this project is taken from online resources with format 
 
 ### Results: 
 
-The final goal was to find bpm (beats per minute) and it is in somehow integer value. The same formula is used to calculate bpm after R-Wave as given in “Methodology” section. We have tested some signals with both the methods Threshold & Correlation and the results are similar but Correlation Method overall gives better and accurate results then Threshold method. 
+The final goal was to find bpm (beats per minute) and it is in somehow integer value. The same formula is used to calculate bpm after R-Wave as given in “Methodology” section. We have tested some signals with both the methods Threshold & Correlation and the results are similar but Correlation Method overall gives better and accurate results then Threshold method!! 
 
