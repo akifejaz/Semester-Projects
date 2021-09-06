@@ -1,4 +1,4 @@
-# Report of ECG Analysis Project
+# Report of ECG Analysis Project !
 ### Abstract:
 
 _______ Electrocardiogram (ECG) represents the electrical activity of the human heart. It is a graph of voltage versus time of the electrical activity of the heart using electrodes placed on the skin. ECG signal is composed of 5 waves - P, Q, R, S and T, e.g., Fig 1.  In this project we are going to detects human heart rate in beats per minute (bpm) using only R wave. As the heart rate is the very important human health status information. The heart rate is used in many applications like in medical diagnosis, spots application for the measurement of stress and for fitness test purposes etc. the heart beat rate can be figured out using ECG signal. There are various ways to compute heart beat rate from ECG signal. There are many algorithms presents for heart beat detection but we are going to use Autocorrelation Method and Threshold method for computing the heat rate.
